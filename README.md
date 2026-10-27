@@ -7,4 +7,4 @@ I'm Daniel. I build SW tools that help large engineering teams keep their knowle
 - **quawa** – checks whether the tests of AI-written code really test
 - **faktwerk** – maintain knowledge once and show it the right way for every role
 
-More at [danwos.dev](https://danwos.dev).
+More at [danwos.dev](https://danwos.dev) · [LinkedIn](https://www.linkedin.com/in/daniel-woste)
